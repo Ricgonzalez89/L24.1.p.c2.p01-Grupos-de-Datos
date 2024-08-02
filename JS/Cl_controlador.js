@@ -3,7 +3,7 @@ import { Cl_mTodoGrupo } from "./Cl_mTodoGrupo.js";
 import { Cl_vGrupo } from "./Cl_vGrupo.js";
 import { Cl_vTodoGrupo } from "./Cl_vTodoGrupo.js";
 
-export default class Controlador{
+export class Controlador{
     constructor(){
         this.Cl_mTodoGrupo = new Cl_mTodoGrupo();
         this.Cl_vGrupo = new Cl_vGrupo();

@@ -9,7 +9,7 @@
 |* El grupo D tiene un promedio de 6.00
 |* El grupo E tiene un promedio de 3.00
 */
-import Controlador from "./Cl_controlador.js";
+import { Controlador } from "./Cl_controlador.js";
 
 export default class Cl_main{
     constructor(){
