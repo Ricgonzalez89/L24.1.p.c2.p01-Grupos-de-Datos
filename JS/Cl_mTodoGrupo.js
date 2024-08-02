@@ -1,4 +1,4 @@
-export default class Cl_mTodoGrupo{
+export class Cl_mTodoGrupo{
     constructor(){
         this.mayor = 0;
         this.auxCod = " ";

@@ -1,4 +1,4 @@
-export default class Cl_mGrupo{
+export class Cl_mGrupo{
     constructor({cod, d1, d2}){
         this.cod = cod;
         this.d1 = +d1;

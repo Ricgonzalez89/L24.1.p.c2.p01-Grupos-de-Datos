@@ -1,7 +1,7 @@
-import Cl_mGrupo from "./Cl_mGrupo.js";
-import Cl_mTodoGrupo from "./Cl_mTodoGrupo.js";
-import Cl_vGrupo from "./Cl_vGrupo.js";
-import Cl_vTodoGrupo from "./Cl_vTodoGrupo.js";
+import { Cl_mGrupo } from "./Cl_mGrupo.js";
+import { Cl_mTodoGrupo } from "./Cl_mTodoGrupo.js";
+import { Cl_vGrupo } from "./Cl_vGrupo.js";
+import { Cl_vTodoGrupo } from "./Cl_vTodoGrupo.js";
 
 export default class Controlador{
     constructor(){

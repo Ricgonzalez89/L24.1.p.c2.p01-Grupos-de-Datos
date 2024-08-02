@@ -1,4 +1,4 @@
-export default class Cl_vGrupo{
+export class Cl_vGrupo{
     leerDato(){
         let cod = prompt("Inserte el código del grupo: ");
         let d1 = prompt("Inserte el primer dato del grupo: ");
